@@ -365,7 +365,7 @@ button:hover {
   height: 320px;
   border-top-left-radius: 30%;
   border-bottom-right-radius: 30%;
-  background-image: url("/assets/RodrigoSelfie.png");
+  background-image: url("assets/RodrigoSelfie.png");
   background-color: #1b1c1c;
   background-repeat: no-repeat;
   background-position: center;
@@ -404,28 +404,28 @@ button:hover {
 }
 
 #videogames {
-  background-image: url("/assets/hobbies/game.png");
+  background-image: url("assets/hobbies/game.png");
 }
 #travel {
-  background-image: url("/assets/hobbies/travel.png");
+  background-image: url("assets/hobbies/travel.png");
 }
 #swim {
-  background-image: url("/assets/hobbies/swim.png");
+  background-image: url("assets/hobbies/swim.png");
 }
 #run {
-  background-image: url("/assets/hobbies/jog.png");
+  background-image: url("assets/hobbies/jog.png");
 }
 #tv {
-  background-image: url("/assets/hobbies/tv.png");
+  background-image: url("assets/hobbies/tv.png");
 }
 #hp {
-  background-image: url("/assets/hobbies/hp.png");
+  background-image: url("assets/hobbies/hp.png");
 }
 #pho {
-  background-image: url("/assets/hobbies/noodles.png");
+  background-image: url("assets/hobbies/noodles.png");
 }
 #sushi {
-  background-image: url("/assets/hobbies/sushi.png");
+  background-image: url("assets/hobbies/sushi.png");
 }
 
 .techDiv {
@@ -526,45 +526,45 @@ button:hover {
   background-size: cover;
 }
 #recipixslide1 {
-  background-image: url("/assets/recipix/trasy0.png");
+  background-image: url("assets/recipix/trasy0.png");
 }
 #recipixslide2 {
-  background-image: url("/assets/recipix/trasy1.png");
+  background-image: url("assets/recipix/trasy1.png");
 }
 #recipixslide3 {
-  background-image: url("/assets/recipix/trasy2.png");
+  background-image: url("assets/recipix/trasy2.png");
   background-size: contain;
 }
 #recipixslide4 {
-  background-image: url("/assets/recipix/trasy3.png");
+  background-image: url("assets/recipix/trasy3.png");
   background-size: contain;
 }
 #recipixslide5 {
-  background-image: url("/assets/recipix/trasy4.png");
+  background-image: url("assets/recipix/trasy4.png");
   background-size: contain;
 }
 
 #raceslide1 {
-  background-image: url("/assets/racehopper/guros0.png");
+  background-image: url("assets/racehopper/guros0.png");
 }
 #raceslide2 {
-  background-image: url("/assets/racehopper/guros1.png");
+  background-image: url("assets/racehopper/guros1.png");
 }
 #raceslide3 {
-  background-image: url("/assets/racehopper/racelevel3.png");
+  background-image: url("assets/racehopper/racelevel3.png");
 }
 #raceslide4 {
-  background-image: url("/assets/racehopper/ianracehopper1.jpg");
+  background-image: url("assets/racehopper/ianracehopper1.jpg");
 }
 #botbuddiesslide1 {
-  background-image: url("/assets/botbuddies/botbuddiesslide1.jpg");
+  background-image: url("assets/botbuddies/botbuddiesslide1.jpg");
 }
 #botbuddiesslide2 {
-  background-image: url("/assets/botbuddies/botbuddiesslide2.png");
+  background-image: url("assets/botbuddies/botbuddiesslide2.png");
   background-size: contain;
 }
 #botbuddiesslide3 {
-  background-image: url("/assets/botbuddies/botbuddiesslide3.png");
+  background-image: url("assets/botbuddies/botbuddiesslide3.png");
   background-size: contain;
 }
 
